@@ -1,0 +1,11 @@
+<html>
+<body align="center" color:"blue">
+     Name:  <input type="text" value="name"><br><br>
+		  Company Name: <input  type="text" value="company"><br><br>
+			Location : <input type="text" value="location"><br>
+			<br>Job Id: <input type="text" value="jobid"><br>
+			<br>Email Id:<input type="mail" value="email"><br>
+       <br><input type="submit" value="Register"><br>
+
+</body>
+</html>
